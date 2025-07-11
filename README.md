@@ -22,13 +22,12 @@ Wellcoem to my profil github, I am a beginner programmer and am still trying out
 
 
 ######
+
 <img width="1200" height="3" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyeXV5MWtmczJ2d2lidzlkbmU2cWNjczh6emM3NGowMjF1NGp0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" />
 
 ###
 
-## Thanks For Stopped by!
-
-###
+## Thanks for stopped by!
 <img width="1200" height="3" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyeXV5MWtmczJ2d2lidzlkbmU2cWNjczh6emM3NGowMjF1NGp0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" />
 
 ##
