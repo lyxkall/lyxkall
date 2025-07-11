@@ -1,5 +1,5 @@
 
-<img width="700" height="350" src="https://ibb.co/g8V4ZWL"  />
+<img width="700" height="350" src="https://files.catbox.moe/16czl1.gif"  />
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 <h1 align="left"><img  width="35" height="35" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" /> Hello, I'm lyxkall! <img  width="35" height="35" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" /></h1>
+
+###
 
 Wellcoem to my Github profile! I am a beginner programmer and am still trying out many things that interest me. Recently, I have been trying out a **Node.js** project with the **React.js** framework.
 
