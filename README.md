@@ -1,8 +1,5 @@
-<h1 align="left">Hi 👋 </h1>
 
-###
-
-<img width="700" height="350" src="https://upload-os-bbs.hoyolab.com/upload/2021/08/12/44586747/ec0429ca063513d0639172bfdc16a2b4_2124251756016479572.gif"  />
+<img width="700" height="350" src="https://ibb.co/g8V4ZWL"  />
 
 ###
 
@@ -10,10 +7,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lyxkall.lyxkall&"  />
 </div>
 
+<h1 align="left"><img  width="35" height="35" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" /> Hello, I'm lyxkall! <img  width="35" height="35" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" /></h1>
 
 ###
 
-Wellcoem to my profil github, I am a beginner programmer and am still trying out many things that interest me. Recently, I have been trying out a **Node.js** project with the **React.js** framework.
+Wellcoem to my Github profile! I am a beginner programmer and am still trying out many things that interest me. Recently, I have been trying out a **Node.js** project with the **React.js** framework.
+
 
 - join the IMPHNEN community
 - 🎮 Genshin Impact is my favorite game
@@ -23,11 +22,11 @@ Wellcoem to my profil github, I am a beginner programmer and am still trying out
 
 ######
 
-<img width="1200" height="3" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyeXV5MWtmczJ2d2lidzlkbmU2cWNjczh6emM3NGowMjF1NGp0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" />
+<img width="1200" height="3" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-<h3 align="left">Thanks for stoppen by! </h3>
+<h3 align="left">Thanks for stoppen by! 🚀   </h3>
 
-<img width="1200" height="3" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyeXV5MWtmczJ2d2lidzlkbmU2cWNjczh6emM3NGowMjF1NGp0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" />
+<img width="1200" height="3" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 ##
 
@@ -48,6 +47,6 @@ Wellcoem to my profil github, I am a beginner programmer and am still trying out
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lyxkall/lyxkall/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" />
 
 ###
