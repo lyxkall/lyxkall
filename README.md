@@ -1,5 +1,5 @@
 
-<img width="700" height="350" src="[https://files.catbox.moe/16czl1.gif](https://camo.githubusercontent.com/c787c2d380fd058d2998a2897fa7e06013de82256185f17f92ee5306e365e9cc/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f3562686b4439714155544941414141642f74696d652d6167656e742d6c696e6b2d636c69636b2e676966)"  />
+<img width="700" height="400" src="https://files.catbox.moe/16czl1.gif"  />
 
 ###
 
