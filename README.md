@@ -1,5 +1,6 @@
-
-<img width="700" height="400" src="https://files.catbox.moe/16czl1.gif"  />
+<div align="center">
+<img width="700" height="390" src="https://files.catbox.moe/16czl1.gif"  />
+</div>
 
 ###
 
