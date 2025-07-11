@@ -2,7 +2,7 @@
 
 ###
 
-<img width="1200" height="400" src="https://upload-os-bbs.hoyolab.com/upload/2021/08/12/44586747/ec0429ca063513d0639172bfdc16a2b4_2124251756016479572.gif"  />
+<img width="700" height="350" src="https://upload-os-bbs.hoyolab.com/upload/2021/08/12/44586747/ec0429ca063513d0639172bfdc16a2b4_2124251756016479572.gif"  />
 
 ###
 
@@ -25,9 +25,8 @@ Wellcoem to my profil github, I am a beginner programmer and am still trying out
 
 <img width="1200" height="3" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyeXV5MWtmczJ2d2lidzlkbmU2cWNjczh6emM3NGowMjF1NGp0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" />
 
-###
+<h3 align="left">Thanks for stoppen by! </h3>
 
-## Thanks for stopped by!
 <img width="1200" height="3" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyeXV5MWtmczJ2d2lidzlkbmU2cWNjczh6emM3NGowMjF1NGp0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" />
 
 ##
